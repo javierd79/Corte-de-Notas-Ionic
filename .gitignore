@@ -9,9 +9,7 @@
 /coverage
 
 # production
-/build
-/android
-/.idea
+
 # misc
 .DS_Store
 .env.local
