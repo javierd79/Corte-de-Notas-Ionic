@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'corte_de_notas_briyith',
+  appId: 'com.example.app',
+  appName: 'Corte de Notas',
   webDir: 'build',
   bundledWebRuntime: false
 };
