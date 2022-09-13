@@ -1,0 +1,7 @@
+{
+  "name": "corte_de_notas_briyith",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
