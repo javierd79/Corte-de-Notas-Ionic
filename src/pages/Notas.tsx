@@ -14,7 +14,6 @@ import {
   IonInput, 
   IonItem, 
   IonLabel, 
-  IonFooter
 } from '@ionic/react'; 
 import './Notas.css'; 
 
